@@ -1,16 +1,13 @@
-## Hi there 👋
+# grindstone-dev
 
-<!--
-**Grindstone-Dev/grindstone-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A small personal sandbox for experiments, prototypes, and backend-logic practice.  
+Nothing here is meant for production — just a space to learn, test ideas, and build privately.
 
-Here are some ideas to get you started:
+### Currently exploring
+- Systems design and automation
+- Procedural tools for large simulated environments
+- Backend logic for games and world-building
+- Workflow experiments and scripting practice
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+This repository has no public roadmap, no support requests, and no offers of collaboration.  
+It’s simply a development playground.
